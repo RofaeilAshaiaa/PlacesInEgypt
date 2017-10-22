@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Sights of Egypt</string>
+    <string name="featured_label">Featured</string>
+    <string name="explore_label">Explore</string>
+    <string name="description_label">Description</string>
+    <string name="download_image">Download Image</string>
+    <string name="EXTRA_SIGHT_ID">extra_sight_id</string>
+    <string name="failed_to_connect_to_server">failed to connect to server</string>
+    <string name="error_in_network">error in network</string>
+    <string name="there_is_no_internet_connection">there is no internet connection</string>
+    <string name="server_error">server error</string>
+    <string name="you_are_connected_again_message">You Are Connected Again, data will reload!</string>
+    <string name="EXTRA_SIGHT_DESCRITPION">extra_sight_description</string>
+    <string name="EXTRA_SIGHT_IMAGE_URL">extra_sight_image_url</string>
+    <string name="EXTRA_SIGHT_PRICE">extra_sight_price</string>
+
+</resources>
